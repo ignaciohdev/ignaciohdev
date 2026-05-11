@@ -15,31 +15,27 @@ Enfocado en el aprendizaje continuo y eficiencia tecnica.
 
 ### Stack Tecnologico
 
-<p align="center"><strong>Lenguajes de Programacion</strong>strong></p>p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cs,php,ts" />
-</p>p>
+**Lenguajes de Programacion**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,cs,php,ts" />
 
 <br />
 
-<p align="center"><strong>Frameworks y Librerias</strong>strong></p>p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,django,dotnet" />
-</p>p>
+**Frameworks y Librerias**
+
+<img src="https://skillicons.dev/icons?i=react,angular,django,dotnet" />
 
 <br />
 
-<p align="center"><strong>Bases de Datos</strong>strong></p>p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver" />
-</p>p>
+**Bases de Datos**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver" />
 
 <br />
 
-<p align="center"><strong>Herramientas y Otros</strong>strong></p>p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,html,css" />
-</p>p>
+**Herramientas y Otros**
+
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,html,css" />
 
 ---
 
@@ -59,4 +55,4 @@ Portafolio profesional interactivo.
 <a href="mailto:Ignacio.AHM@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
 <a href="https://linkedin.com/in/ignacioherreramejias"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
 
-</div></strong></strong>
+</div>
